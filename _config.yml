@@ -8,9 +8,9 @@ tagline: A Clean Slate For Mental Health
 description: Taboola Rasa is a non-profit mental health advocacy project
 
 author:
-  name:   Song-Zi Vong
-  url:    https://twitter.com/vfvong
-  avatar: https://avatars.githubusercontent.com/u/97170774
+  name:   Taboola Rasa
+  url:    https://taboolarasa.org
+  avatar: ./assets/img/taboola-rasa-avatar.jpg
 
 # plugins:
 #   - jekyll-paginate
