@@ -1,3 +1,21 @@
 plugins:
   - jekyll-remote-theme
 remote_theme: vfvong/jekyll-theme-tao
+
+# Site config
+title: Taboola Rasa
+tagline: A Clean Slate For Mental Health
+description: Taboola Rasa is a non-profit mental health advocacy project
+
+author:
+  name:   Song-Zi Vong
+  url:    https://twitter.com/vfvong
+  avatar: https://avatars.githubusercontent.com/u/97170774
+
+# plugins:
+#   - jekyll-paginate
+
+# paginate: 2
+
+# categories_path: /categories/
+# tags_path: /tags/
