@@ -1,6 +1,7 @@
 ## general
 
 * fonts
+  * check font stack for Playfair Display font
 * colours
 
 
